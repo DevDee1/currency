@@ -1,0 +1,6 @@
+.cover{padding-top:80px}
+.btn{padding:6px; background:black;color:white; border:0;font-size:12px;}
+.btn:hover{font-weight:bold;color:#fff}
+.naira, .result{width:228px;height:35px;font-family:arial;
+					font-size:15px;border:none;
+					border-bottom:1px solid red;color:red; padding:8px}
